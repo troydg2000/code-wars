@@ -1,2 +1,2 @@
 # code-wars
-This repository stores my solutions to code-wars challenges in different scripting languages.
+This repository stores my solutions to Codewars challenges in different scripting languages.
